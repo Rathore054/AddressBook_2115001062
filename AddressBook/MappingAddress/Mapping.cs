@@ -1,11 +1,13 @@
 ﻿using AutoMapper;
-using RepositoryLayer.Entity;
-using ModelLayer.Model;
 
-public class Mapping : Profile
+using ModelLayer.Model;
+using RepositoryLayer.Entity;
+
+public class MappingProfile : Profile
 {
-    public Mapping()
+    public MappingProfile()
     {
-        CreateMap<AddressBookEntity, EntryModel>().ReverseMap();
+        CreateMap<RequestModel, AddressBookEntity>();
+        CreateMap<AddressBookEntity, EntryModel>();
     }
 }

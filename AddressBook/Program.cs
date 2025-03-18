@@ -7,6 +7,12 @@ using Microsoft.EntityFrameworkCore;
 using RepositoryLayer.Context;
 using System;
 using AutoMapper;
+using BusinessLayer.Interface;
+
+using RepositoryLayer.Interface;
+using RepositoryLayer.Service;
+using BusinessLayer.Service;
+using BusinessLayer.Middleware.Authenticator;
 
 
 var logger = LogManager.Setup().LoadConfigurationFromFile("nlog.config").GetCurrentClassLogger();
@@ -19,8 +25,13 @@ try
     builder.Services.AddDbContext<ContextRL>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
     new MySqlServerVersion(new Version(8, 0, 41))));
-
-    // Add services to the container.
+    //dependency injection
+    builder.Services.AddScoped<IAddressBookBL,AddressBookBL>();
+    builder.Services.AddScoped<IAddressBookRL, AddressBookRL>();
+    builder.Services.AddScoped<IUserBookBL, UserBookBL>();
+    builder.Services.AddScoped<IUserBookRL, UserBookRL>();
+    builder.Services.AddScoped<JWTToken>();
+    // Add services to the container
     builder.Services.AddControllers();
     builder.Logging.ClearProviders();
     builder.Host.UseNLog();

@@ -10,7 +10,7 @@ using NLog;
 using Microsoft.Extensions.Logging;
 using ModelLayer.Model;
 
-namespace BusinessLayer.Services
+namespace BusinessLayer.Service
 {
     public class AddressBookBL : IAddressBookBL
     {

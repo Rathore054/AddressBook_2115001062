@@ -8,7 +8,7 @@ namespace ModelLayer.Model
         public string Name { get; set; }
 
         [Required, MaxLength(15)]
-        [RegularExpression(@"^[0-9]{10}$", ErrorMessage = "Invalid phone number format.")]
+        
         public string PhoneNumber { get; set; }
 
         [EmailAddress, MaxLength(255)]
