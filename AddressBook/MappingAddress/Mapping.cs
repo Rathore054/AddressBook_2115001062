@@ -3,9 +3,9 @@
 using ModelLayer.Model;
 using RepositoryLayer.Entity;
 
-public class MappingProfile : Profile
+public class Mapping : Profile
 {
-    public MappingProfile()
+    public Mapping()
     {
         CreateMap<RequestModel, AddressBookEntity>();
         CreateMap<AddressBookEntity, EntryModel>();

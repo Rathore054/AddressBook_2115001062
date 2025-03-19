@@ -1,18 +1,24 @@
-
-using FluentValidation.AspNetCore;
-using FluentValidation;
-using NLog;
-using NLog.Web;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
+using NLog.Config;
+using NLog.Web;
+using BusinessLayer.Mapping;
+using NLog;
 using RepositoryLayer.Context;
 using System;
-using AutoMapper;
 using BusinessLayer.Interface;
 
 using RepositoryLayer.Interface;
 using RepositoryLayer.Service;
 using BusinessLayer.Service;
-using BusinessLayer.Middleware.Authenticator;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using Middleware.Authenticator;
+using System.Text;
+using Microsoft.Extensions.Options;using FluentValidation.AspNetCore;
+using FluentValidation;
+using AutoMapper;
+using Middleware.Email;
 
 
 var logger = LogManager.Setup().LoadConfigurationFromFile("nlog.config").GetCurrentClassLogger();
@@ -26,11 +32,12 @@ try
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
     new MySqlServerVersion(new Version(8, 0, 41))));
     //dependency injection
-    builder.Services.AddScoped<IAddressBookBL,AddressBookBL>();
+    builder.Services.AddScoped<IAddressBookBL, AddressBookBL>();
     builder.Services.AddScoped<IAddressBookRL, AddressBookRL>();
     builder.Services.AddScoped<IUserBookBL, UserBookBL>();
     builder.Services.AddScoped<IUserBookRL, UserBookRL>();
     builder.Services.AddScoped<JWTToken>();
+    builder.Services.AddScoped<EmailService>();
     // Add services to the container
     builder.Services.AddControllers();
     builder.Logging.ClearProviders();

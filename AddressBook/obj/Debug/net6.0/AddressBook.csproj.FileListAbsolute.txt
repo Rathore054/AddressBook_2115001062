@@ -133,3 +133,10 @@ C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressB
 C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\AspNetCore.EmailMiddleware.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\MailKit.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\crypto.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

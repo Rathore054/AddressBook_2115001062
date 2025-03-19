@@ -1,0 +1,321 @@
+2025-03-18 14:54:02.9918 Info Now listening on: https://localhost:7094 
+2025-03-18 14:54:03.0356 Info Now listening on: http://localhost:5107 
+2025-03-18 14:54:03.0748 Info Application started. Press Ctrl+C to shut down. 
+2025-03-18 14:54:03.0748 Info Hosting environment: Development 
+2025-03-18 14:54:03.0748 Info Content root path: C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\ 
+2025-03-18 14:54:03.8578 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - - 
+2025-03-18 14:54:04.1382 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - - - 200 - text/html;charset=utf-8 281.0503ms 
+2025-03-18 14:54:04.1762 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.js - - 
+2025-03-18 14:54:04.1762 Info Request starting HTTP/2 GET https://localhost:7094/_vs/browserLink - - 
+2025-03-18 14:54:04.1762 Info Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-18 14:54:04.1786 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.js - - - 200 - application/javascript;charset=utf-8 2.4009ms 
+2025-03-18 14:54:04.1786 Info Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 8.6153ms 
+2025-03-18 14:54:04.2701 Info Request finished HTTP/2 GET https://localhost:7094/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 93.8905ms 
+2025-03-18 14:54:04.4622 Info Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - 
+2025-03-18 14:54:04.4622 Info Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.2401ms 
+2025-03-19 19:52:26.5896 Info Now listening on: https://localhost:7094 
+2025-03-19 19:52:26.6302 Info Now listening on: http://localhost:5107 
+2025-03-19 19:52:26.6783 Info Application started. Press Ctrl+C to shut down. 
+2025-03-19 19:52:26.6783 Info Hosting environment: Development 
+2025-03-19 19:52:26.6783 Info Content root path: C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\ 
+2025-03-19 19:52:28.1295 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - - 
+2025-03-19 19:52:28.4587 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - - - 200 - text/html;charset=utf-8 331.2490ms 
+2025-03-19 19:52:28.4924 Info Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-19 19:52:28.4924 Info Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 5.5065ms 
+2025-03-19 19:52:28.5074 Info Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - - 
+2025-03-19 19:52:28.5074 Info The file /swagger-ui.css was not modified 
+2025-03-19 19:52:28.5074 Info Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - - - 304 - text/css 6.8155ms 
+2025-03-19 19:52:28.5074 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.css - - 
+2025-03-19 19:52:28.5074 Info The file /index.css was not modified 
+2025-03-19 19:52:28.5074 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.css - - - 304 - text/css 0.8925ms 
+2025-03-19 19:52:28.5430 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.js - - 
+2025-03-19 19:52:28.5430 Info Request starting HTTP/2 GET https://localhost:7094/_vs/browserLink - - 
+2025-03-19 19:52:28.5430 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.js - - - 200 - application/javascript;charset=utf-8 1.5138ms 
+2025-03-19 19:52:28.6152 Info Request finished HTTP/2 GET https://localhost:7094/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.6680ms 
+2025-03-19 19:52:28.7381 Info Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui-bundle.js - - 
+2025-03-19 19:52:28.7381 Info Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui-standalone-preset.js - - 
+2025-03-19 19:52:28.7381 Info The file /swagger-ui-bundle.js was not modified 
+2025-03-19 19:52:28.7381 Info Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui-bundle.js - - - 304 - application/javascript 6.0445ms 
+2025-03-19 19:52:28.7381 Info The file /swagger-ui-standalone-preset.js was not modified 
+2025-03-19 19:52:28.7528 Info Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui-standalone-preset.js - - - 304 - application/javascript 13.5571ms 
+2025-03-19 19:52:28.8585 Info Request starting HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - - 
+2025-03-19 19:52:28.8715 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-03-19 19:52:28.8715 Info Request finished HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - - - 0 628 image/png 13.8701ms 
+2025-03-19 19:52:28.9130 Info Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - 
+2025-03-19 19:52:28.9130 Info Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.3986ms 
+2025-03-19 19:53:48.8971 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/register application/json 97 
+2025-03-19 19:53:48.9099 Info Executing endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 19:53:48.9399 Info Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(ModelLayer.Model.RegisterUser) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:53:50.4566 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:53:51.1270 Info Executed DbCommand (60ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:53:51.1672 Info Executing BadRequestObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:53:51.1672 Info Executed action AddressBook.Controllers.AuthController.Register (AddressBook) in 2228.0139ms 
+2025-03-19 19:53:51.1672 Info Executed endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 19:53:51.1832 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/register application/json 97 - 400 - text/plain;+charset=utf-8 2286.1743ms 
+2025-03-19 19:54:35.0350 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 
+2025-03-19 19:54:35.0350 Info Executing endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:54:35.0350 Info Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(ModelLayer.Model.UserLogin) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:54:35.0641 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:54:35.0867 Info Executed DbCommand (1ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:54:35.0867 Info Executing UnauthorizedObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:54:35.0867 Info Executed action AddressBook.Controllers.AuthController.Login (AddressBook) in 45.1633ms 
+2025-03-19 19:54:35.0867 Info Executed endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:54:35.0867 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 - 401 - text/plain;+charset=utf-8 55.4222ms 
+2025-03-19 19:54:40.8496 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 
+2025-03-19 19:54:40.8496 Info Executing endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:54:40.8496 Info Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(ModelLayer.Model.UserLogin) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:54:40.8954 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:54:40.8954 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:54:40.8954 Info Executing UnauthorizedObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:54:40.8954 Info Executed action AddressBook.Controllers.AuthController.Login (AddressBook) in 47.5287ms 
+2025-03-19 19:54:40.8954 Info Executed endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:54:40.8954 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 - 401 - text/plain;+charset=utf-8 48.7111ms 
+2025-03-19 19:54:49.6237 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 
+2025-03-19 19:54:49.6237 Info Executing endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:54:49.6237 Info Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(ModelLayer.Model.UserLogin) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:54:49.6237 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:54:49.6273 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:54:49.7172 Info Executing UnauthorizedObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:54:49.7172 Info Executed action AddressBook.Controllers.AuthController.Login (AddressBook) in 92.6325ms 
+2025-03-19 19:54:49.7172 Info Executed endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:54:49.7172 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 - 401 - text/plain;+charset=utf-8 94.5498ms 
+2025-03-19 19:55:03.0378 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/login application/json 68 
+2025-03-19 19:55:03.0378 Info Executing endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:55:03.0378 Info Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(ModelLayer.Model.UserLogin) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:55:03.0378 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:55:03.0378 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:55:03.0378 Info Executing UnauthorizedObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:55:03.0378 Info Executed action AddressBook.Controllers.AuthController.Login (AddressBook) in 4.8244ms 
+2025-03-19 19:55:03.0488 Info Executed endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 19:55:03.0488 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/login application/json 68 - 401 - text/plain;+charset=utf-8 11.3016ms 
+2025-03-19 19:55:21.1243 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/register application/json 98 
+2025-03-19 19:55:21.1243 Info Executing endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 19:55:21.1243 Info Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(ModelLayer.Model.RegisterUser) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:55:21.1243 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:55:21.1283 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:55:21.1612 Info Executing BadRequestObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:55:21.1612 Info Executed action AddressBook.Controllers.AuthController.Register (AddressBook) in 36.0604ms 
+2025-03-19 19:55:21.1612 Info Executed endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 19:55:21.1612 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/register application/json 98 - 400 - text/plain;+charset=utf-8 38.1240ms 
+2025-03-19 19:55:56.3787 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/register application/json 92 
+2025-03-19 19:55:56.3787 Info Executing endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 19:55:56.3787 Info Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(ModelLayer.Model.RegisterUser) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:55:56.3787 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:55:56.3787 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:55:56.4051 Info Executing BadRequestObjectResult, writing value of type 'System.String'. 
+2025-03-19 19:55:56.4051 Info Executed action AddressBook.Controllers.AuthController.Register (AddressBook) in 25.7048ms 
+2025-03-19 19:55:56.4051 Info Executed endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 19:55:56.4051 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/register application/json 92 - 400 - text/plain;+charset=utf-8 27.2416ms 
+2025-03-19 19:57:20.9769 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/forgot-password application/json 41 
+2025-03-19 19:57:20.9769 Info Executing endpoint 'AddressBook.Controllers.AuthController.ForgotPassword (AddressBook)' 
+2025-03-19 19:57:20.9769 Info Route matched with {action = "ForgotPassword", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ForgotPassword(ModelLayer.Model.ForgotPasswordDTO) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:57:20.9922 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:57:20.9922 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:57:23.2857 Info Executing OkObjectResult, writing value of type 'ModelLayer.Model.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-19 19:57:23.2857 Info Executed action AddressBook.Controllers.AuthController.ForgotPassword (AddressBook) in 2312.372ms 
+2025-03-19 19:57:23.2857 Info Executed endpoint 'AddressBook.Controllers.AuthController.ForgotPassword (AddressBook)' 
+2025-03-19 19:57:23.2857 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/forgot-password application/json 41 - 200 - application/json;+charset=utf-8 2315.0989ms 
+2025-03-19 19:58:40.9110 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/forgot-password application/json 41 
+2025-03-19 19:58:40.9110 Info Executing endpoint 'AddressBook.Controllers.AuthController.ForgotPassword (AddressBook)' 
+2025-03-19 19:58:40.9110 Info Route matched with {action = "ForgotPassword", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ForgotPassword(ModelLayer.Model.ForgotPasswordDTO) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 19:58:40.9110 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 19:58:40.9110 Info Executed DbCommand (1ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 19:58:42.9413 Info Executing OkObjectResult, writing value of type 'ModelLayer.Model.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-19 19:58:42.9413 Info Executed action AddressBook.Controllers.AuthController.ForgotPassword (AddressBook) in 2030.8349ms 
+2025-03-19 19:58:42.9413 Info Executed endpoint 'AddressBook.Controllers.AuthController.ForgotPassword (AddressBook)' 
+2025-03-19 19:58:42.9413 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/forgot-password application/json 41 - 200 - application/json;+charset=utf-8 2035.0948ms 
+2025-03-19 20:33:27.1785 Info Now listening on: https://localhost:7094 
+2025-03-19 20:33:27.2106 Info Now listening on: http://localhost:5107 
+2025-03-19 20:33:27.2618 Info Application started. Press Ctrl+C to shut down. 
+2025-03-19 20:33:27.2618 Info Hosting environment: Development 
+2025-03-19 20:33:27.2618 Info Content root path: C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\ 
+2025-03-19 20:33:28.2767 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - - 
+2025-03-19 20:33:28.5406 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - - - 200 - text/html;charset=utf-8 265.8957ms 
+2025-03-19 20:33:28.5767 Info Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-19 20:33:28.5767 Info Request starting HTTP/2 GET https://localhost:7094/_vs/browserLink - - 
+2025-03-19 20:33:28.5767 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.js - - 
+2025-03-19 20:33:28.5767 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.css - - 
+2025-03-19 20:33:28.5767 Info Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - - 
+2025-03-19 20:33:28.5767 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.js - - - 200 - application/javascript;charset=utf-8 2.1503ms 
+2025-03-19 20:33:28.5828 Info Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 6.1451ms 
+2025-03-19 20:33:28.5828 Info Sending file. Request path: '/index.css'. Physical path: 'N/A' 
+2025-03-19 20:33:28.5828 Info Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-03-19 20:33:28.5828 Info Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - - - 200 154948 text/css 17.3941ms 
+2025-03-19 20:33:28.5828 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.css - - - 200 202 text/css 17.2635ms 
+2025-03-19 20:33:28.6400 Info Request finished HTTP/2 GET https://localhost:7094/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 63.0061ms 
+2025-03-19 20:33:28.8848 Info Request starting HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - - 
+2025-03-19 20:33:28.8848 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-03-19 20:33:28.8848 Info Request finished HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - - - 200 628 image/png 1.1140ms 
+2025-03-19 20:33:28.9318 Info Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - 
+2025-03-19 20:33:28.9409 Info Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 9.0913ms 
+2025-03-19 20:33:54.3226 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/forgot-password application/json 41 
+2025-03-19 20:33:54.3226 Info Executing endpoint 'AddressBook.Controllers.AuthController.ForgotPassword (AddressBook)' 
+2025-03-19 20:33:54.3494 Info Route matched with {action = "ForgotPassword", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ForgotPassword(ModelLayer.Model.ForgotPasswordDTO) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:33:55.4780 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 20:33:56.0830 Info Executed DbCommand (51ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 20:33:59.5516 Info Executing OkObjectResult, writing value of type 'ModelLayer.Model.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-19 20:33:59.5516 Info Executed action AddressBook.Controllers.AuthController.ForgotPassword (AddressBook) in 5204.5782ms 
+2025-03-19 20:33:59.5516 Info Executed endpoint 'AddressBook.Controllers.AuthController.ForgotPassword (AddressBook)' 
+2025-03-19 20:33:59.5694 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/forgot-password application/json 41 - 200 - application/json;+charset=utf-8 5246.7412ms 
+2025-03-19 20:35:25.1122 Info Request starting HTTP/2 GET https://localhost:7094/api/Auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ1ZGl0cmF0aG9yZTA1NEBnbWFpbC5jb20iLCJQdXJwb3NlIjoiUGFzc3dvcmRSZXNldCIsImV4cCI6MTc0MjM5NzUzNiwiaXNzIjoiVXNlclJlZ2lzdHJhdGlvbkFQSSIsImF1ZCI6IlVzZXJSZWdpc3RyYXRpb25DbGllbnRzIn0.-HSx3ufzHciI3cxFjcXRP50Ie-AN73euc4Z74eSQQ_w - - 
+2025-03-19 20:35:25.1122 Info Executing endpoint 'AddressBook.Controllers.AuthController.ResetPasswordForm (AddressBook)' 
+2025-03-19 20:35:25.1122 Info Route matched with {action = "ResetPasswordForm", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ContentResult ResetPasswordForm(System.String) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:35:25.1342 Info Executing ContentResult with HTTP Response ContentType of text/html 
+2025-03-19 20:35:25.1342 Info Executed action AddressBook.Controllers.AuthController.ResetPasswordForm (AddressBook) in 17.8251ms 
+2025-03-19 20:35:25.1342 Info Executed endpoint 'AddressBook.Controllers.AuthController.ResetPasswordForm (AddressBook)' 
+2025-03-19 20:35:25.1342 Info Request finished HTTP/2 GET https://localhost:7094/api/Auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ1ZGl0cmF0aG9yZTA1NEBnbWFpbC5jb20iLCJQdXJwb3NlIjoiUGFzc3dvcmRSZXNldCIsImV4cCI6MTc0MjM5NzUzNiwiaXNzIjoiVXNlclJlZ2lzdHJhdGlvbkFQSSIsImF1ZCI6IlVzZXJSZWdpc3RyYXRpb25DbGllbnRzIn0.-HSx3ufzHciI3cxFjcXRP50Ie-AN73euc4Z74eSQQ_w - - - 200 833 text/html 32.1386ms 
+2025-03-19 20:35:50.7245 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/reset-password application/json 394 
+2025-03-19 20:35:50.7245 Info Executing endpoint 'AddressBook.Controllers.AuthController.ResetPassword (AddressBook)' 
+2025-03-19 20:35:50.7245 Info Route matched with {action = "ResetPassword", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ResetPassword(ModelLayer.Model.ResetPasswordDTO) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:35:50.8389 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 20:35:50.8679 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 20:35:51.0360 Info Executed DbCommand (8ms) [Parameters=[@p3='?' (DbType = Int32), @p0='?' (Size = 255), @p1='?' (Size = 100), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+UPDATE `Users` SET `Email` = @p0, `FullName` = @p1, `PasswordHash` = @p2
+WHERE `UserId` = @p3;
+SELECT ROW_COUNT(); 
+2025-03-19 20:35:51.0573 Info Executing OkObjectResult, writing value of type 'ModelLayer.Model.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-19 20:35:51.0573 Info Executed action AddressBook.Controllers.AuthController.ResetPassword (AddressBook) in 331.0479ms 
+2025-03-19 20:35:51.0573 Info Executed endpoint 'AddressBook.Controllers.AuthController.ResetPassword (AddressBook)' 
+2025-03-19 20:35:51.0573 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/reset-password application/json 394 - 200 - application/json;+charset=utf-8 334.4349ms 
+2025-03-19 20:36:22.0350 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/reset-password-form multipart/form-data;+boundary=----geckoformboundaryb7524bb384f7d6d6ff0e24d7d64e01f1 641 
+2025-03-19 20:36:22.0350 Info Executing endpoint 'AddressBook.Controllers.AuthController.ResetPasswordForm (AddressBook)' 
+2025-03-19 20:36:22.0350 Info Route matched with {action = "ResetPasswordForm", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ResetPasswordForm(System.String, System.String) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:36:22.1169 Info Executing UnauthorizedObjectResult, writing value of type 'ModelLayer.Model.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-19 20:36:22.1169 Info Executed action AddressBook.Controllers.AuthController.ResetPasswordForm (AddressBook) in 74.4833ms 
+2025-03-19 20:36:22.1169 Info Executed endpoint 'AddressBook.Controllers.AuthController.ResetPasswordForm (AddressBook)' 
+2025-03-19 20:36:22.1169 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/reset-password-form multipart/form-data;+boundary=----geckoformboundaryb7524bb384f7d6d6ff0e24d7d64e01f1 641 - 401 - application/json;+charset=utf-8 83.0767ms 
+2025-03-19 20:37:25.4797 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 
+2025-03-19 20:37:25.4797 Info Executing endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 20:37:25.4797 Info Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(ModelLayer.Model.UserLogin) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:37:25.5227 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 20:37:25.5227 Info Executed DbCommand (1ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 20:37:25.5853 Info Executing UnauthorizedObjectResult, writing value of type 'System.String'. 
+2025-03-19 20:37:25.5853 Info Executed action AddressBook.Controllers.AuthController.Login (AddressBook) in 104.1522ms 
+2025-03-19 20:37:25.5853 Info Executed endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 20:37:25.5853 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 - 401 - text/plain;+charset=utf-8 106.2622ms 
+2025-03-19 20:38:12.1297 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 
+2025-03-19 20:38:12.1297 Info Executing endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 20:38:12.1297 Info Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(ModelLayer.Model.UserLogin) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:38:12.1297 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 20:38:12.1297 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 20:38:12.1638 Info Executing UnauthorizedObjectResult, writing value of type 'System.String'. 
+2025-03-19 20:38:12.1638 Info Executed action AddressBook.Controllers.AuthController.Login (AddressBook) in 29.8255ms 
+2025-03-19 20:38:12.1638 Info Executed endpoint 'AddressBook.Controllers.AuthController.Login (AddressBook)' 
+2025-03-19 20:38:12.1638 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/login application/json 67 - 401 - text/plain;+charset=utf-8 35.1926ms 
+2025-03-19 20:39:17.3966 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/register application/json 94 
+2025-03-19 20:39:17.3966 Info Executing endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 20:39:17.3966 Info Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(ModelLayer.Model.RegisterUser) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:39:17.3966 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 20:39:17.4088 Info Executed DbCommand (0ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 20:39:17.4428 Info Executing BadRequestObjectResult, writing value of type 'System.String'. 
+2025-03-19 20:39:17.4428 Info Executed action AddressBook.Controllers.AuthController.Register (AddressBook) in 37.8571ms 
+2025-03-19 20:39:17.4428 Info Executed endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 20:39:17.4428 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/register application/json 94 - 400 - text/plain;+charset=utf-8 47.2141ms 
+2025-03-19 20:43:23.6127 Info Now listening on: https://localhost:7094 
+2025-03-19 20:43:23.6439 Info Now listening on: http://localhost:5107 
+2025-03-19 20:43:23.6966 Info Application started. Press Ctrl+C to shut down. 
+2025-03-19 20:43:23.6966 Info Hosting environment: Development 
+2025-03-19 20:43:23.6966 Info Content root path: C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\ 
+2025-03-19 20:43:24.5072 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - - 
+2025-03-19 20:43:24.7706 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - - - 200 - text/html;charset=utf-8 265.5472ms 
+2025-03-19 20:43:24.8078 Info Request starting HTTP/2 GET https://localhost:7094/_vs/browserLink - - 
+2025-03-19 20:43:24.8078 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.js - - 
+2025-03-19 20:43:24.8078 Info Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-19 20:43:24.8078 Info Request starting HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - - 
+2025-03-19 20:43:24.8078 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.css - - 
+2025-03-19 20:43:24.8163 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.js - - - 200 - application/javascript;charset=utf-8 8.4161ms 
+2025-03-19 20:43:24.8163 Info Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 20.0601ms 
+2025-03-19 20:43:24.8368 Info Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-03-19 20:43:24.8368 Info Sending file. Request path: '/index.css'. Physical path: 'N/A' 
+2025-03-19 20:43:24.8368 Info Request finished HTTP/2 GET https://localhost:7094/swagger/swagger-ui.css - - - 0 154948 text/css 29.1715ms 
+2025-03-19 20:43:24.8368 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.css - - - 200 202 text/css 25.4983ms 
+2025-03-19 20:43:24.9000 Info Request finished HTTP/2 GET https://localhost:7094/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 92.1035ms 
+2025-03-19 20:43:25.2375 Info Request starting HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - - 
+2025-03-19 20:43:25.2375 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-03-19 20:43:25.2375 Info Request finished HTTP/2 GET https://localhost:7094/swagger/favicon-32x32.png - - - 0 628 image/png 1.4547ms 
+2025-03-19 20:43:25.2878 Info Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - 
+2025-03-19 20:43:25.2878 Info Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.9632ms 
+2025-03-19 20:48:27.2641 Info Now listening on: https://localhost:7094 
+2025-03-19 20:48:27.2945 Info Now listening on: http://localhost:5107 
+2025-03-19 20:48:27.3360 Info Application started. Press Ctrl+C to shut down. 
+2025-03-19 20:48:27.3360 Info Hosting environment: Development 
+2025-03-19 20:48:27.3360 Info Content root path: C:\Users\Udit\OneDrive\Desktop\AddressBook-Clone\AddressBook_2115001062\AddressBook\ 
+2025-03-19 20:48:28.6928 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.html - - 
+2025-03-19 20:48:29.1018 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.html - - - 200 - text/html;charset=utf-8 411.3812ms 
+2025-03-19 20:48:29.1473 Info Request starting HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-19 20:48:29.1473 Info Request starting HTTP/2 GET https://localhost:7094/swagger/index.js - - 
+2025-03-19 20:48:29.1473 Info Request starting HTTP/2 GET https://localhost:7094/_vs/browserLink - - 
+2025-03-19 20:48:29.1473 Info Request finished HTTP/2 GET https://localhost:7094/swagger/index.js - - - 200 - application/javascript;charset=utf-8 7.8861ms 
+2025-03-19 20:48:29.1630 Info Request finished HTTP/2 GET https://localhost:7094/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 15.6340ms 
+2025-03-19 20:48:29.2192 Info Request finished HTTP/2 GET https://localhost:7094/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.0713ms 
+2025-03-19 20:48:29.5842 Info Request starting HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - 
+2025-03-19 20:48:29.5842 Info Request finished HTTP/2 GET https://localhost:7094/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 9.5598ms 
+2025-03-19 20:49:07.3023 Info Request starting HTTP/2 POST https://localhost:7094/api/Auth/register application/json 96 
+2025-03-19 20:49:07.3186 Info Executing endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 20:49:07.3421 Info Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(ModelLayer.Model.RegisterUser) on controller AddressBook.Controllers.AuthController (AddressBook). 
+2025-03-19 20:49:08.5522 Info Entity Framework Core 6.0.36 initialized 'ContextRL' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.3' with options: ServerVersion 8.0.41-mysql  
+2025-03-19 20:49:09.1955 Info Executed DbCommand (59ms) [Parameters=[@__email_0='?' (Size = 255)], CommandType='Text', CommandTimeout='30']
+SELECT `u`.`UserId`, `u`.`Email`, `u`.`FullName`, `u`.`PasswordHash`
+FROM `Users` AS `u`
+WHERE `u`.`Email` = @__email_0
+LIMIT 1 
+2025-03-19 20:49:09.3097 Info Executing BadRequestObjectResult, writing value of type 'System.String'. 
+2025-03-19 20:49:09.3150 Info Executed action AddressBook.Controllers.AuthController.Register (AddressBook) in 1967.7669ms 
+2025-03-19 20:49:09.3150 Info Executed endpoint 'AddressBook.Controllers.AuthController.Register (AddressBook)' 
+2025-03-19 20:49:09.3150 Info Request finished HTTP/2 POST https://localhost:7094/api/Auth/register application/json 96 - 400 - text/plain;+charset=utf-8 2022.6560ms 

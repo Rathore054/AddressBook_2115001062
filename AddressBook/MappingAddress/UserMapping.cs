@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Mapping
 {
-    public class UserMapper : Profile
+    public class UserMapping : Profile
     {
-        public UserMapper()
+        public UserMapping()
         {
             CreateMap<UserEntity, UserModel>();
             CreateMap<UserEntity, RegisterUser>().ReverseMap();
